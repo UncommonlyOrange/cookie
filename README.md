@@ -1,7 +1,4 @@
-# uncommonlyorange.github.io
-
-
-            <html>
+<html>
 
   <head>
 <title>My Experimental Webpage</title>
