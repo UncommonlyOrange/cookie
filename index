@@ -4,10 +4,10 @@
 <title>My Experimental Webpage</title>
 <style>
   h1{
-    color: maroon;
+    color: lightskyblue;
   }
   html{
-    background-color: lightskyblue;
+    background-color: grey;
   }
 </style>
   </head>
