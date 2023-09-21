@@ -3,11 +3,11 @@
   <head>
 <title>My Experimental Webpage</title>
 <style>
-  html{
-    background-color: lightskyblue;
-  }
   h1{
     color: maroon;
+  }
+  html{
+    background-color: lightskyblue;
   }
 </style>
   </head>
