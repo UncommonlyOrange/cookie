@@ -1,1 +1,1 @@
-# cookie @ uncommonlyorange.github.io/cookie/
+# uncommonlyorange.github.io/cookie/
